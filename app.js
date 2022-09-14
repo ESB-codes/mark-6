@@ -8,6 +8,7 @@ let api="	https://api.funtranslations.com/translate/minion.json"
 
 function errorHandler(error){
     console.log("the error here is: "+ error)
+    alert("try again after an hour");
 }
 
 
