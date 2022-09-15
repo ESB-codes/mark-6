@@ -68,6 +68,11 @@ margin-bottom: 3rem;
 cursor: pointer;
 }
 
+#translate:hover{
+color: blue;
+
+}
+
 #box{
     width: 80%;
     height: 5vh;
